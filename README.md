@@ -6,16 +6,18 @@
 >> - *“Basic Modification Light”*；  
 >> - *“Basic Modification Bold”*；  
 >> - *“Basic Modification Tilt”*。  
-感谢你的查看！  
 
-=================================
+感谢你的查看！  
+  
+------
 
 # Introducing *"Basic-Modification"* Font.  
 ----------------------------------
-Hello! This is the project website of *"Basic-Modification"* font. You can download *"Basic-Modification"* font here. ***(This font modified from "MiSans" and "Montserrat")***  
-> **There are 4 versions in total.**
->> - *"Basic Modification Regular"*;
->> - *"Basic Modification Light"*;
->> - *"Basic Modification Bold"*;
->> - *"Basic Modification Tilt"*.
+Hello! This is the project website of *"Basic-Modification"* font. You can download *"Basic-Modification"* font here. ***(This font modified from "MiSans" and "Montserrat")***   
+> **There are 4 versions in total.**  
+>> - *"Basic Modification Regular"*;  
+>> - *"Basic Modification Light"*;  
+>> - *"Basic Modification Bold"*;  
+>> - *"Basic Modification Tilt"*.  
+  
 Thank you for your visiting!
